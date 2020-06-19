@@ -1,9 +1,11 @@
 ---
-layout: post
 title: 我
-subtitle: 不完全是我
+description: 不完全是我
+categories:
+ - 我
 tags: [日常]
 ---
+
 
 {: .box-note}
 **Note:** 嘘。
