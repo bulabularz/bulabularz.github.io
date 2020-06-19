@@ -376,7 +376,7 @@ han: false
 #baidu_analytics:
 
 # Duoshuo ShortName
-#duoshuo_shortname:
+duoshuo_shortname: 乐
 
 # Disqus
 disqus:
@@ -736,3 +736,4 @@ images: assets/images
 
 # Theme version
 version: 5.1.1
+
