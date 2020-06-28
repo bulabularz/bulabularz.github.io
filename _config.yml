@@ -123,7 +123,7 @@ menu:
   archives: /archives/
   tags: /tags/
   #sitemap: /sitemap.xml
-  commonweal: /404.html
+  #commonweal: /404.html
 
 
 # Enable/Disable menu icons.
@@ -317,7 +317,7 @@ post_meta:
 # Post wordcount display settings
 post_wordcount:
   item_text: true
-  wordcount: false
+  wordcount: true
   min2read: false
   separated_meta: true
 
