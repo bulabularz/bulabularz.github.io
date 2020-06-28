@@ -123,7 +123,7 @@ menu:
   archives: /archives/
   tags: /tags/
   #sitemap: /sitemap.xml
-  #commonweal: /404.html
+  commonweal: /404.html
 
 
 # Enable/Disable menu icons.
@@ -232,8 +232,8 @@ social_icons:
 
 
 # Sidebar Avatar
-# in directory: /assets/images/avatar.gif
-#avatar:
+in directory: /assets/images/avatar.gif
+avatar: https://static01.imgkr.com/temp/32cf01f5c79b4d8ab7912425ddc8faa3.jpg
 
 
 # Table Of Contents in the Sidebar
